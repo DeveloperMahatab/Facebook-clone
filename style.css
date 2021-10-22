@@ -235,11 +235,11 @@ header .row .row .col-md-4, header .row .row .col-md-8{
 }
 .fb-story-item img{
     width: 160px;
-    transition: .4s;
+    transition: .5s;
 }
-.fb-story-item:hover img{
-    transform: scale(1.1);
-    transition: .4s;
+.fb-story-item:hover img {
+    transform: scale(1.05);
+    transition: 0.5s;
 }
 .fb-story-item .text {
     bottom: 0;
